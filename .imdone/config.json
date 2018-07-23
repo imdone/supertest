@@ -13,7 +13,12 @@
     "tables": true,
     "gfm": true
   },
-  "lists": [],
+  "lists": [
+    {
+      "name": "TODO",
+      "hidden": false
+    }
+  ],
   "code": {
     "include_lists": [
       "TODO",
