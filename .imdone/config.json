@@ -3,7 +3,6 @@
     "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
   ],
   "watcher": true,
-  "noHelp": true,
   "keepEmptyPriority": true,
   "code": {
     "include_lists": [
@@ -41,5 +40,6 @@
     "id": "5b53cdca4892a7acab1adc12",
     "name": "imdone/supertest",
     "useImdoneioForPriority": true
-  }
+  },
+  "noHelp": true
 }
