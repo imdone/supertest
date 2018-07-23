@@ -1,5 +1,4 @@
 {
-  "noHelp": true,
   "sync": {
     "useImdoneioForPriority": true,
     "name": "imdone/supertest",
