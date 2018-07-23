@@ -44,5 +44,6 @@
     "useImdoneioForPriority": true,
     "name": "imdone/supertest",
     "id": "5b53cdca4892a7acab1adc12"
-  }
+  },
+  "noHelp": true
 }
